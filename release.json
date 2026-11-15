@@ -1,0 +1,6 @@
+{
+  "version": "4.1.1",
+  "zip_url": "https://raw.githubusercontent.com/noahosterwald-sys/novaos-update-test/main/NovaOS-4.1.1-Test-Update.zip",
+  "sha256": "0d279763ac21609a8e816a304728d064ad5f713a011bacb675d13abc84e58045",
+  "notes": "HTTPS-Update-Test: gleiche Funktionen wie NovaOS 4.1; Versionswechsel pruefen. Vor der Installation Sicherung erstellen."
+}
